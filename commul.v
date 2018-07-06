@@ -1,3 +1,5 @@
+//sub-module, a multiplier for the twiddle factor of the butterfly structure
+
 module commul(rst,clk,dir,dii,twsel,dor,doi);
 
 input rst,clk;
@@ -425,8 +427,5 @@ always @(posedge(clk) or posedge(rst)) begin
 //	ti44 <= ti4;
     end
 end
-
-
-
+	
 endmodule
-
