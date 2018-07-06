@@ -1,3 +1,5 @@
+//a testbench for commul.v
+
 module commul_tb();
 
 reg rst,clk;
