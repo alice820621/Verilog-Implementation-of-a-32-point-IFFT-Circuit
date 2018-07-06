@@ -1,3 +1,5 @@
+//sub-module, an adder and subtractor for the butterfly structure
+
 module bfly2(rst,clk,di1r,di1i,di2r,di2i,do1r,do1i,do2r,do2i);
 
 input rst,clk;
