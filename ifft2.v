@@ -1,3 +1,5 @@
+//sub-module, collecting signals from bfly.v and commul.v
+
 module ifft2(rst,clk,twsel,di1r,di1i,di2r,di2i,do1r,do1i,do2r,do2i);
 
 input rst,clk;
