@@ -1,3 +1,5 @@
+//a testbench for bfly2.v
+
 module bfly2_tb();
 
 reg rst,clk;
