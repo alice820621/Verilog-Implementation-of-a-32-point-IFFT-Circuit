@@ -1,3 +1,5 @@
+//a testbench for ifft.v
+
 module ifft_tb();
 
 reg rst,clk,pushin;
