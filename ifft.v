@@ -1,3 +1,5 @@
+//top module, a 32-point IFFT with 4-bit integer and 24-bit decimal real and image input/output
+
 module ifft (clk,rst,pushin,dir,dii,pushout,dor,doi);
 
 input rst,clk,pushin;
